@@ -6,5 +6,5 @@ absorption and scattering by gases in the the earth's atmosphere, as well an exa
 of cloud optics and an implementation of aerosol optics following the MERRA aerosol description. 
 
 The data have been copied and renamed from the 
-[RRTMGP repository]((https://github.com/earth-system-radiation/rte-rrtmgp) 
+[RRTMGP repository](https://github.com/earth-system-radiation/rte-rrtmgp)
 at commit 74a0e09. 
