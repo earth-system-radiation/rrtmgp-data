@@ -1,4 +1,5 @@
-abstract: "Data for RRTMGP gas, cloud, and aersol optics; inputs and reference results for examples distributed in RTE+RRTMGP"
+cff-version: 1.2.0
+title: "RRTMGP data"
 authors:
   - family-names: Pincus
     given-names: Robert
@@ -15,8 +16,9 @@ authors:
   - family-names: Pernak
     given-names: Rick
     orcid: "https://orcid.org/0000-0002-3624-2314"
-cff-version: 1.2.0
+type: dataset
 date-released: "2023-05-30"
+abstract: "Data for RRTMGP gas, cloud, and aersol optics; inputs and reference results for examples distributed in RTE+RRTMGP"
 identifiers:
   - description: "All versions"
     type: doi
@@ -34,5 +36,4 @@ keywords:
 license: BSD-3-Clause
 message: "If you use this software, please cite it using these metadata."
 repository-code: "https://github.com/earth-system-radiaton/rrtmgp-data"
-title: "RRTMGP data"
 version: 1.7
