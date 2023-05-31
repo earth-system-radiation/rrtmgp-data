@@ -1,5 +1,7 @@
 # About RRTMGP data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7988260.svg)](https://doi.org/10.5281/zenodo.7988260)
+
 This directory contains data for use with the 
 [RRTMGP k-distribution](https://github.com/earth-system-radiation/rte-rrtmgp) for computing 
 absorption and scattering by gases in the the earth's atmosphere, as well an example implementation
